@@ -12,12 +12,12 @@
 
     <PreloadComponent />
 
-    <NuxtLink to="/test">
-      Test page
+    <NuxtLink to="/">
+      Index page
     </NuxtLink>
   </div>
 </template>
 
 <script setup lang="ts">
-console.log('Index page setup!')
+console.log('Test page setup!')
 </script>
